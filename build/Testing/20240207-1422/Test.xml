@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20240207-1422-Experimental"
+	Name="DESKTOP-FFEBU8J"
+	Generator="ctest-3.27.9"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.29.30153.0"
+	OSName="Windows"
+	Hostname="DESKTOP-FFEBU8J"
+	OSRelease=" Professional"
+	OSVersion=" (Build 18362)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="19212"
+	TotalPhysicalMemory="16268"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2904"
+	>
+	<Testing>
+		<StartDateTime>Feb 07 20:20 India Standard Time</StartDateTime>
+		<StartTestTime>1707317444</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 07 20:20 India Standard Time</EndDateTime>
+		<EndTestTime>1707317444</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

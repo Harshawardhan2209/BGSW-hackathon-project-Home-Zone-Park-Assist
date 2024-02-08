@@ -1,0 +1,9 @@
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/Experimental.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/Nightly.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/Continuous.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/cvtest.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/PACKAGE.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Documents/cvtest/build/CMakeFiles/ZERO_CHECK.dir

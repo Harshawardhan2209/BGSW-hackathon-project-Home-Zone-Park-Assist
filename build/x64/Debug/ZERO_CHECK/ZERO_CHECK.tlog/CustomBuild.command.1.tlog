@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOCUMENTS\CVTEST\BUILD\CMAKEFILES\D71F929CA98ED7D0094126E130F69D8A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/Documents/cvtest -BC:/Users/Admin/Documents/cvtest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Documents/cvtest/build/cvtest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
