@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Admin/Documents/cvtest/BGSW-hackathon-project/OpenCV_3_Image_Subtraction_Cpp/out/build/x64-Debug/CMakeFiles/main.dir/embed.manifest"

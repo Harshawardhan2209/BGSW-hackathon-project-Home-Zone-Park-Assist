@@ -1,0 +1,4 @@
+C:/Users/Admin/Documents/cvtest/BGSW-hackathon-project/OpenCV_3_Image_Subtraction_Cpp/out/build/x64-Debug/CMakeFiles/blob.dir
+C:/Users/Admin/Documents/cvtest/BGSW-hackathon-project/OpenCV_3_Image_Subtraction_Cpp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/cvtest/BGSW-hackathon-project/OpenCV_3_Image_Subtraction_Cpp/out/build/x64-Debug/CMakeFiles/main.dir
+C:/Users/Admin/Documents/cvtest/BGSW-hackathon-project/OpenCV_3_Image_Subtraction_Cpp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
