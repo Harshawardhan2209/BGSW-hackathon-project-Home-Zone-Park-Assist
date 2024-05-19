@@ -49,18 +49,4 @@ Install dependencies
 - [@Harsh Patare](https://www.github.com/Harshawardhan2209)
 - [@Rohit Nehul](https://github.com/rohit04nehul)
 
-
-![Logo](logo.png)
-
-
-
-
-
-
-
-
-
-
-
-
-    
+<img src="logo.png" alt="logo" style="width:20%;">
