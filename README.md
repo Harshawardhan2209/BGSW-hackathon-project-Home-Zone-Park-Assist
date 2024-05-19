@@ -15,7 +15,7 @@ The Home Zone Park Assist System is a smart parking assistance solution leveragi
 
 ## Screenshot
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](output.jpg)
 
 
 ## Run Locally
@@ -43,6 +43,11 @@ Install dependencies
     MinGW: version 8.1.0
   
 ```
+
+## Debugging
+![Project Screenshot](debugging.jpg)
+
+
 
 ## Authors
 
