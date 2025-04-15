@@ -1,5 +1,5 @@
 
-# Home Zone Park Assist System
+# Home Zone Park Assist System - Open Source Version
 
 The Home Zone Park Assist System is a smart parking assistance solution leveraging computer vision technology. It enhances safety, convenience, and efficiency for drivers by providing real-time assistance in parking maneuvers. This system can be deployed both in home environments and public spaces, offering a seamless parking experience
 
